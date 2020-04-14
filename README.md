@@ -1,6 +1,6 @@
 # musicplayer
 
-## Project setup
+## Vue+Web Audio API开发一个音乐播放器
 ```
 yarn install
 ```
@@ -10,15 +10,12 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 感谢B站Up主:lizzzled的视频教程
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+个人空间: https://space.bilibili.com/108104895?spm_id_from=333.788.b_765f7570696e666f.2
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 项目演示地址
+```
+https://thh0730.github.io/thh_music
+```
