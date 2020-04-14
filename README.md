@@ -17,3 +17,6 @@ yarn serve
 
 ### 项目演示地址
 https://thh0730.github.io/thh_music
+
+### 使用说明
+点击播放器，选择想要播放的mp3文件即可。
