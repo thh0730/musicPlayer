@@ -16,6 +16,4 @@ yarn serve
 ```
 
 ### 项目演示地址
-```
 https://thh0730.github.io/thh_music
-```
